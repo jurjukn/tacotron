@@ -9,6 +9,11 @@
   * matplotlib
   * scipy
 
+//jurjukn comments
+Cuda 10.0 (sudo apt install cuda=10.0.130-1) https://gist.github.com/bogdan-kulynych/f64eb148eeef9696c70d485a76e42c3a
+TensorFlow 1.15
+//-----
+
 ## Data
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/World_English_Bible_Cover.jpg" height="200" align="right">
